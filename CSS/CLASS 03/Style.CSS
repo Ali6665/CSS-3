@@ -1,0 +1,70 @@
+.head1{
+    background-color: rgb(29, 66, 140);
+    color: white;
+    width: 100%;
+}
+.head2{
+       background-color: rgb(10, 6, 138); 
+       color: white;
+       font-size: 36px;
+       text-decoration: none;
+      
+}
+
+.XZ{
+    width: 100%;
+}
+
+.head2 :hover {
+    background-color: #0063c1;
+  }
+
+.head3{
+    background-color:rgb(142, 109, 214) ;
+    color: black;
+    height: 8vh;
+    font-size: 36px;
+}
+
+
+
+.head4{
+    background-color: rgb(29, 66, 140);
+    color: white;
+    width: 350px;
+    text-align: center;
+    height: 10vh;
+}
+
+.Hd3 :hover {
+    background-color: #0063c1;
+  }
+.head5{
+    background-color:rgb(142, 109, 214) ;
+    color: black;
+     height: 8vh;
+     font-size: 36px;
+}
+.head6{
+
+    font-weight:bold;
+    color: #000;
+    font-size: 24px;
+
+}
+.A1{
+    text-decoration: line-through;
+}
+.A2{
+    text-decoration: underline;
+} 
+.ali{
+    text-decoration: none;
+    color: white;
+}
+
+@media only screen and (max-width:480px) {
+    .XZ{
+        width: 100%;
+    }
+}

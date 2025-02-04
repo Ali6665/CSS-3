@@ -1,0 +1,164 @@
+
+.input-sch1{
+    width: 27%;
+    height: 4vh;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    background-image: url("https://www.pixsector.com/cache/e7836840/av6584c34aabb39f00a10.png");
+    background-size: 30px;
+   background-repeat: no-repeat;
+   padding-left: 30px;
+   border: none;
+
+}
+#select{
+    margin-left: 49%;
+   padding: 2px;
+   color: rgb(0, 0, 0);
+   background-color:rgb(83, 192, 255);
+   box-shadow: 0 0 10px rgb(0, 0, 0);
+   border-radius: 20px;
+   height: 5vh;
+   border: none;
+   background-image: url("https://media.istockphoto.com/id/1468746784/vector/shopping-cart-icon-on-blue-background-flat-design-with-long-shadow.jpg?s=612x612&w=0&k=20&c=rRBS_sLJ1cblPUpLWQF93bV8uOaQPSNaURitzM6_RM4=");   
+   background-size: 30px;
+   background-repeat: no-repeat;
+   padding-left: 30px;
+   border: none;
+   outline: none;
+}
+
+.input-sch2{
+    width: 27%;
+    height: 4vh;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    background-image: url("https://static.vecteezy.com/system/resources/previews/006/692/118/non_2x/copy-content-icon-template-black-color-editable-copy-content-icon-symbol-flat-illustration-for-graphic-and-web-design-free-vector.jpg");
+    background-size: 25px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    border: none;
+    outline: none;
+}
+
+.input-sch3{
+    width: 27%;
+    height: 4vh;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    background-image: url("https://www.creativefabrica.com/wp-content/uploads/2019/01/Box-vector-icon-by-tutukof-580x386.png");
+    background-size: 35px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    border: none;
+    outline: none;
+    
+}
+
+.input-sch4{
+    width: 27%;
+    height: 4vh;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    background-image: url("https://logowik.com/content/uploads/images/dollar3010.jpg");
+    background-size: 28px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    border: none;
+    outline: none;
+    
+}
+
+.input-sch5{
+     box-shadow: 0 0 10px rgb(0, 0, 0);
+     height: 6vh;
+     border: none;
+     color: white;
+     background-color: black;
+     border-radius: 10px;
+     outline: none;
+}
+
+
+
+.table-row{
+    
+    background-color: rgb(32, 89, 155);
+    padding: 20px;
+    margin: 0;
+    height: 8vh;
+    color: white;
+    border-collapse: collapse;
+}
+.table-row1{
+    border-collapse: collapse;
+    width: 100%;
+    padding: 0;
+    border: groove 2px black;
+    border-radius: 17px;
+    box-shadow: 0 0 50px rgb(0, 0, 0);
+    border: none;
+    color: rgb(4, 35, 71);
+    height: 400px;
+}
+
+.th{
+    border-radius: 10px 0 0 15px;
+}
+.thh{
+    border-radius: 0px 15px 15px 0px;
+    
+}
+.Check{color: rgb(0, 41, 226);
+    color: white;
+}
+.img{
+    width: 85px;
+}
+.img1{
+    width: 40px;
+    border-radius: 20px;
+}
+.img2{
+    width: 30px;
+    border: 1px solid black;
+    border: none;
+    border-radius: 20px;
+}
+.img3{
+    width: 13px;
+}
+.img4{
+    width: 25px;
+}
+.table-body{
+    background-color: white;
+}
+.bn1{
+    background-color: white;
+    border: none;
+    color: rgb(18, 41, 66);
+    border-radius:100px ;
+    height: vh;
+}
+.bn{
+    background-color: rgb(38, 66, 99);
+    border: none;
+    border-radius: 0 15px 15px 0;
+    color: white;
+    height: 4vh;
+}
+.bn2{
+    background-color: rgb(38, 66, 99);
+    border: none;
+    border-radius: 15px 0 0 15px;
+    color: white;
+    height: 4vh;
+}
+
+#Check:hover{
+    background-color: rgb(35, 35, 218);
+}
+
+
+@media only screen and (max-width: 480px){
+    input{
+        100px
+    }
+}

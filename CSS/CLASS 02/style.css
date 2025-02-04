@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: green;
+    background-color: lightgreen;
+    width: 500px;
+    margin-left: 500px;
+
+}
+table{
+    width: 100%;
+    
+    
+}
+img{
+    width: 50px;
+}
+button{
+    color: green;
+    background-color:rgb(3, 43, 3);
+}
+.Email{
+    color: green;
+}
+.Ahmed{
+    background-color:palegreen;
+    
+}
+
+#Ali{
+    color: green; 
+}
