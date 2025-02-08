@@ -1,0 +1,12 @@
+.input-sch2{
+    width: 27%;
+    height: 4vh;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaVgez1kUqUOYyNABu5x17nr1grk7-RQJjSQ&s");
+    background-size: 40px;
+    background-repeat: no-repeat;
+    padding-left: 10px;
+    border: none;
+    border-radius: 10px;
+   background-position: right;
+}
